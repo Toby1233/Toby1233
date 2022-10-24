@@ -27,3 +27,4 @@ http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/102.m3u8
 http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/135.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/ZsWDiRF.png" tvg-id="PH: Tap Sports" , •Tap Sports
 http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/137.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606280.jpg" group-title="Ungrouped", KAPAMILYA CHANNELhttp://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
