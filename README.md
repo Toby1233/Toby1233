@@ -1,8 +1,8 @@
 
 EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" tvg-id="KapamilyaChannel.ph" , •KAPAMILYA CHANNEL
-http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/98.m3u8
+http://103.73.58.238:8443/live/U4IS2VAP-PPsZj6ZggbIDw/1666636163/430.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/w14QgTQ.png" tvg-id="GMATV.ph" , •GMA 7
-https://phc-iptv.tk/kapuso
+http://103.73.58.238:8443/live/U4IS2VAP-PPsZj6ZggbIDw/1666636163/431.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/kePZSFb.png " tvg-id="GMATV.ph" , •GTV
 http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/103.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/K84w7Dx.png" tvg-id="Dummy" , •TV5
