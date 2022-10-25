@@ -1,12 +1,12 @@
 
 EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" tvg-id="KapamilyaChannel.ph" , •KAPAMILYA CHANNEL
-http://103.73.58.238:8443/live/U4IS2VAP-PPsZj6ZggbIDw/1666636163/430.m3u8
+http://103.73.58.238:8443//live//0wfTXQpyyDTgBJJ4nhg12Q//1666787675/430.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/w14QgTQ.png" tvg-id="GMATV.ph" , •GMA 7
 http://103.73.58.238:8443/live/U4IS2VAP-PPsZj6ZggbIDw/1666636163/431.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/kePZSFb.png " tvg-id="GMATV.ph" , •GTV
-http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/103.m3u8
+http://103.73.58.238:8443//live//0wfTXQpyyDTgBJJ4nhg12Q//1666787675/413.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/K84w7Dx.png" tvg-id="Dummy" , •TV5
-http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/114.m3u8
+http://103.73.58.238:8443//live//0wfTXQpyyDTgBJJ4nhg12Q//1666787675/114.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" tvg-id="OnePH.ph" , •One PH
 http://103.152.216.26:8443/live/6adZtzRqsRVaSl3S7qy6sw/1666161190/162.m3u8
 #EXTINF:-1 group-title="CARDO DALISAY" tvg-logo="https://i.imgur.com/eIR0REL.png" tvg-id="Dummy" , •JEEPNEY TV
